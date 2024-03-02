@@ -1,2 +1,2 @@
-# -Proto-Overboard
+# [Proto] Overboard
 [Prototype] Overboard
