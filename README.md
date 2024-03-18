@@ -7,4 +7,4 @@ This project is made available under the MIT License. It is intended for educati
 
 
 ## Skills used
-Tags: #CS, #Unity, #Game
+Tags: @tag:CS, @tag:Unity, @tag:Game
