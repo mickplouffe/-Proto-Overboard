@@ -5,7 +5,8 @@
 
 ## Features
 
-TBD
+Hoverboard on the plains and hills. Shift for speed up. 
+
 
 ## Getting Started
 
