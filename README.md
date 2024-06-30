@@ -6,7 +6,8 @@
 ## Features
 
 Hoverboard on the plains and hills. Shift for speed up. 
-Full controllers support.
+Full controllers support. 
+PS5 controller Special features planned.
 
 ## Getting Started
 
