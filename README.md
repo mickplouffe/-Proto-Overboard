@@ -6,7 +6,7 @@
 ## Features
 
 Hoverboard on the plains and hills. Shift for speed up. 
-
+Full controllers support.
 
 ## Getting Started
 
